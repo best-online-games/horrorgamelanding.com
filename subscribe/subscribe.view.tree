@@ -25,18 +25,18 @@ $horrorgamelanding_subscribe $mol_card
 				<= Benefit1 $mol_view
 					sub /
 						<= Benefit1_icon $mol_paragraph
-							title @ \✓
+							title @ \u2713
 						<= Benefit1_text $mol_paragraph
 							title @ \Early access to new features
 				<= Benefit2 $mol_view
 					sub /
 						<= Benefit2_icon $mol_paragraph
-							title @ \✓
+							title @ \u2713
 						<= Benefit2_text $mol_paragraph
 							title @ \Exclusive in-game content
 				<= Benefit3 $mol_view
 					sub /
 						<= Benefit3_icon $mol_paragraph
-							title @ \✓
+							title @ \u2713
 						<= Benefit3_text $mol_paragraph
 							title @ \Special discounts for subscribers
