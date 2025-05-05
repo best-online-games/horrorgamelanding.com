@@ -1,3 +1,24 @@
 {
-	"$horrorgamelanding_app_title": "Страшная страшилка"
+	"$horrorgamelanding_app_title": "Страшная страшилка",
+	"$horrorgamelanding_app_Hero_title": "Войди во Тьму",
+	"$horrorgamelanding_app_Subtitle_title": "Испытай ужас как никогда прежде",
+	"$horrorgamelanding_app_Hero_button_title": "Подписаться сейчас",
+	"$horrorgamelanding_app_Features_section_title": "Особенности игры",
+	"$horrorgamelanding_app_Story_title": "Захватывающий сюжет",
+	"$horrorgamelanding_app_Story_text_title": "Погрузись в глубокую и пугающую историю",
+	"$horrorgamelanding_app_Graphics_title": "Потрясающая графика",
+	"$horrorgamelanding_app_Graphics_text_title": "Графика нового поколения, которая преследует в кошмарах",
+	"$horrorgamelanding_app_Sound_title": "Динамичный звук",
+	"$horrorgamelanding_app_Sound_text_title": "3D-звук, заставляющий оглядываться",
+	"$horrorgamelanding_app_Testimonials_title": "Что говорят игроки",
+	"$horrorgamelanding_app_Testimonial1_title": "\"Я не мог спать несколько дней\"",
+	"$horrorgamelanding_app_Testimonial1_text_title": "Эта игра переопределила жанр ужасов для меня. Атмосфера невероятная.",
+	"$horrorgamelanding_app_Testimonial1_author_title": "- Журнал GameReview",
+	"$horrorgamelanding_app_Testimonial2_title": "\"Шедевр ужаса\"",
+	"$horrorgamelanding_app_Testimonial2_text_title": "Игровая механика в сочетании с сюжетом создает поистине незабываемый опыт.",
+	"$horrorgamelanding_app_Testimonial2_author_title": "- Horror Game Pro",
+	"$horrorgamelanding_app_Subscribe_section_title": "Будь в курсе",
+	"$horrorgamelanding_app_Subscribe_text_title": "Подпишись на нашу рассылку для получения эксклюзивных обновлений и возможностей раннего доступа.",
+	"$horrorgamelanding_app_Copyright_title": "© 2023 Horror Game. Все права защищены.",
+	"$horrorgamelanding_app_Social_text_title": "Следите за нами в социальных сетях"
 }
