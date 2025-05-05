@@ -1,2 +1,2 @@
-include /mol/offline/install
-deploy /horrorgamelanding/logo/logo.jpg
+include \/mol/offline/install
+deploy \/horrorgamelanding/logo/logo.jpg
