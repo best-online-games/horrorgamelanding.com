@@ -98,6 +98,7 @@ $mol_nav $mol_plugin
 		keydown?event <=> event_key?event null
 
 $mol_speck $mol_view
+	minimal_width 12
 	attr *
 		^
 		mol_theme <= theme \$mol_theme_accent
