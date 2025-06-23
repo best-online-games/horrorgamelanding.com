@@ -1,0 +1,9 @@
+$horrorgamelanding_project_card $mol_link
+	project_id \
+	project_title \
+	project_image \
+	uri <= project_uri \
+	sub /
+		<= Card_image $mol_image
+			uri <= project_image
+			alt <= project_title
