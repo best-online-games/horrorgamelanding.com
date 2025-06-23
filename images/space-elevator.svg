@@ -1,0 +1,37 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3c72;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2a5298;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="300" height="200" fill="url(#bg)"/>
+  
+  <!-- Earth -->
+  <ellipse cx="150" cy="180" rx="120" ry="20" fill="#4a5568" opacity="0.8"/>
+  
+  <!-- Space elevator cable -->
+  <line x1="150" y1="180" x2="150" y2="20" stroke="white" stroke-width="2" opacity="0.7"/>
+  
+  <!-- Elevator car -->
+  <rect x="140" y="100" width="20" height="15" rx="2" fill="white"/>
+  
+  <!-- Space station -->
+  <circle cx="150" cy="30" r="15" fill="white" opacity="0.9"/>
+  <rect x="140" y="25" width="20" height="10" rx="2" fill="#667eea"/>
+  
+  <!-- Stars -->
+  <circle cx="50" cy="40" r="1" fill="white"/>
+  <circle cx="80" cy="25" r="1" fill="white"/>
+  <circle cx="220" cy="35" r="1" fill="white"/>
+  <circle cx="250" cy="50" r="1" fill="white"/>
+  
+  <text x="150" y="160" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    Space Elevator
+  </text>
+  
+  <text x="150" y="175" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" opacity="0.8">
+    Ride to the stars
+  </text>
+</svg>

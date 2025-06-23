@@ -1,0 +1,39 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#003d7a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#001a33;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="300" height="200" fill="url(#bg)"/>
+  
+  <!-- Water surface -->
+  <path d="M0,40 Q75,35 150,40 T300,40 L300,0 L0,0 Z" fill="#4da6ff" opacity="0.3"/>
+  
+  <!-- Submarine -->
+  <ellipse cx="150" cy="100" rx="40" ry="15" fill="#333"/>
+  <rect x="130" y="95" width="40" height="10" fill="#333"/>
+  <circle cx="140" cy="100" r="3" fill="yellow" opacity="0.8"/>
+  
+  <!-- Fish -->
+  <ellipse cx="80" cy="80" rx="8" ry="4" fill="white" opacity="0.7"/>
+  <ellipse cx="220" cy="120" rx="6" ry="3" fill="white" opacity="0.6"/>
+  
+  <!-- Bubbles -->
+  <circle cx="170" cy="85" r="2" fill="white" opacity="0.5"/>
+  <circle cx="175" cy="70" r="1.5" fill="white" opacity="0.4"/>
+  <circle cx="180" cy="55" r="1" fill="white" opacity="0.3"/>
+  
+  <!-- Sea floor -->
+  <path d="M0,170 Q100,165 200,170 T300,170 L300,200 L0,200 Z" fill="#2c3e50"/>
+  
+  <text x="150" y="150" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    The Deep Sea
+  </text>
+  
+  <text x="150" y="170" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" opacity="0.8">
+    Explore the depths
+  </text>
+</svg>
